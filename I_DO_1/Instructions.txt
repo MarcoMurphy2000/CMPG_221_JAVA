@@ -1,0 +1,7 @@
+Important! You must do the I_DO1 for 2021.
+
+Provided find the I_DO1 assignment for 2020, this is a good example.
+
+Please only upload your four java files. 1 .java file for the super class, 1 for the first subclass, 1 for the second subclass and the final 1 for the test program.
+
+No zip files will be marked.
