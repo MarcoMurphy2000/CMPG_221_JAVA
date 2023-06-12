@@ -1,0 +1,10 @@
+Design and implement an insertSorted() method for the MyArrayList class. The method should receive a single object and insert it in its correct position. You can assume that the calling array is already in a sorted order. The calling array is therefore updated.
+
+
+Follow the three step method for designing the method
+
+Develop the java code for the method
+
+Create a test program to test the method thoroughly using the Integer wrapper class.
+
+Submit the 2 jave files MyArrayList.jave and the .java file of the test program.
